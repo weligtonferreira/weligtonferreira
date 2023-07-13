@@ -65,11 +65,11 @@
 <div align="center">
   <a href="https://github.com/weligtonferreira">
     <img
-      height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weligtonferreira&layout=compact&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=DEG,6274e7,8752a3&hide_border=true&border_radius=6" alt="Weligton Ferreira's top languages"
+      height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weligtonferreira&layout=compact&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=DEG,32c4c0,0f68a9&hide_border=true&border_radius=6" alt="Weligton Ferreira's top languages"
     />
     <img
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=weligtonferreira&show_icons=true&count_private=true&hide=stars&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&bg_color=DEG,6274e7,8752a3" alt="Weligton Ferreira's GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=weligtonferreira&show_icons=true&count_private=true&hide=stars&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&bg_color=DEG,32c4c0,0f68a9" alt="Weligton Ferreira's GitHub stats"
     />
   </a>
 </div>
@@ -81,7 +81,7 @@
 <div align="center">
 <!--   <a href="https://weligtonferreira.com"><img src="https://img.shields.io/badge/Portfolio-%231B1E23.svg?style=for-the-badge&logo=Google-chrome&logoColor=fff"></a> -->
   <a href="https://www.linkedin.com/in/weligtonferreira"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:weligton0ferreria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:weligton.f.araujo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <!--
